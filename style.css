@@ -1,0 +1,33 @@
+.change{
+	background-color: #4CAF50; /* Green */
+	border: none;
+	color: darkred;
+	/*padding: 15px 32px;*/
+	text-align: center;
+	text-decoration: none;
+	/*display: inline-block;*/
+	font-size: 16px;
+	width: 38%;
+}
+.grid{
+	/*width: 100px;*/
+	/*height: 100px;*/
+	/*display: flex;*/
+	width: auto;
+	border-style: solid;
+	margin-left: 28%;
+	margin-right: 20%;
+	background-color: lightgreen;
+}
+
+/*.grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 38%;
+  height: 300px;
+}*/
+.mystyle{
+	display: inline-block;
+	width: 160px;
+	margin: 1%;
+}
